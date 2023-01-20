@@ -29,6 +29,7 @@ public class Class_action {
 		a.sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ARROW_UP).build().perform();
 		driver.close();
 		//a.moveToElement(element1).contextClick().doubleClick().clickAndHold().clickAndHold(element1).click().perform();
+		System.out.println("github");
 		
 		
 	}
